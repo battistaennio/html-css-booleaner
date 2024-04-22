@@ -1,3 +1,6 @@
+*{
+    font-size: 20px;
+}
 /* logo + sfondo */
 #logo {
     width: 200px;
@@ -39,10 +42,6 @@ h1{
 }
 
 /* paragrafo + elenco puntato */
-.para-ele{
-    font-size: 20px;
-}
-
 .evidenziato{
     background-color: yellow;
 }
