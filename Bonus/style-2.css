@@ -1,0 +1,104 @@
+*{
+    font-size: 20px;
+}
+/* logo + sfondo */
+#logo {
+    width: 200px;
+    margin-top: 50px;
+}
+
+header{
+    background-image: url(img/pattern.png);
+    background-size: contain;
+    background-color: rgb(85, 170, 255);
+}
+
+/* titolo + immagini */
+h1{
+    font-size: 60px;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.sottotitolo{
+    color: grey;
+    font-size: 18px;
+}
+
+.sottotitolo-azzu{
+    color: rgb(0, 179, 255);
+}
+
+.data-sottotitolo{
+    font-size: 12px;
+}
+
+.img-tim{
+    margin-top: 20px;
+}
+
+.crediti{
+    font-size: 12px;
+}
+
+/* paragrafo + elenco puntato */
+ul{
+    padding: 1%;
+}
+.evidenziato{
+    background-color: yellow;
+}
+
+/* tabella + paragrafo */
+table {
+    border-collapse: collapse;
+}
+  
+th {
+    text-align: left;
+}
+
+.ttl-tabella{
+    background-color:  dodgerblue;
+    color: white;
+}
+
+.colonna{
+    width: 25%;
+}
+
+.sz-azzch{
+    background-color: rgb(182, 219, 255);
+}
+
+/* potrebbero interessarti */
+#monitor{
+    background-image: url(img/monitor.jpg);
+}
+
+#graph{
+    background-image: url(img/graph.jpg);
+}
+
+footer div{
+    margin-top: 15px;
+}
+
+.titolo-footer{
+    color: gray;
+    font-weight: 900;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+.img-footer{
+    width: 300px;
+    height: 200px;
+}
+
+.didascalia{
+    color: white;
+    font-weight: 600;
+    line-height: 40px;
+    margin-left: 10px;
+}
