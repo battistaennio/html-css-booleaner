@@ -1,3 +1,4 @@
+/* logo + sfondo */
 #logo {
     width: 200px;
     margin-top: 50px;
@@ -7,4 +8,32 @@ header{
     background-image: url(img/pattern.png);
     background-size: contain;
     background-color: rgb(85, 170, 255);
+}
+
+/* titolo + immagini */
+h1{
+    font-size: 60px;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.sottotitolo{
+    color: grey;
+    font-size: 18px;
+}
+
+.sottotitolo-azzu{
+    color: rgb(0, 179, 255);
+}
+
+.data-sottotitolo{
+    font-size: 12px;
+}
+
+.img-tim{
+    margin-top: 20px;
+}
+
+.crediti{
+    font-size: 12px;
 }
