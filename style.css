@@ -48,8 +48,16 @@ h1{
 }
 
 /* tabella + paragrafo */
-.table-title{
+.ttl-tabella{
     background-color: aqua;
     color: white;
-    padding-right: 80%;
 }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  th {
+    text-align: left;
+  }
+
