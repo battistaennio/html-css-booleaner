@@ -37,3 +37,12 @@ h1{
 .crediti{
     font-size: 12px;
 }
+
+/* paragrafo + elenco puntato */
+.para-ele{
+    font-size: 20px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
