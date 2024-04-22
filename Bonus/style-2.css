@@ -1,7 +1,9 @@
 *{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
     margin: 0;
     padding: 0;
 }
+
 
 body{
     background-color: #F2A490;
@@ -50,8 +52,12 @@ h1{
 }
 
 /* paragrafo + elenco puntato */
+p{
+    margin: 25px;
+    font-size: 25px;
+}
 ul{
-    padding: 1%;
+    padding-left: 10%;
 }
 .evidenziato{
     background-color: yellow;
@@ -60,6 +66,7 @@ ul{
 /* tabella + paragrafo */
 table {
     border-collapse: collapse;
+    margin: 2%;
 }
   
 th {
@@ -67,7 +74,7 @@ th {
 }
 
 .ttl-tabella{
-    background-color:  dodgerblue;
+    background-color:  #DE5B6D;
     color: white;
 }
 
@@ -76,7 +83,7 @@ th {
 }
 
 .sz-azzch{
-    background-color: rgb(182, 219, 255);
+    background-color: #E9765b;
 }
 
 /* potrebbero interessarti */
