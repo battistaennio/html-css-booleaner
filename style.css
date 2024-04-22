@@ -48,16 +48,21 @@ h1{
 }
 
 /* tabella + paragrafo */
-.ttl-tabella{
-    background-color: aqua;
-    color: white;
+table {
+    border-collapse: collapse;
 }
   
-  table {
-    border-collapse: collapse;
-  }
-  
-  th {
+th {
     text-align: left;
-  }
+}
+
+.ttl-tabella{
+    background-color:  dodgerblue;
+    color: white;
+}
+
+.sz-azzch{
+    background-color: rgb(182, 219, 255);
+}
+  
 
